@@ -1,0 +1,6 @@
+c:\users\jeanderson\documents\visual studio 2015\Projects\StringMatcher\StringMatcher\bin\Release\StringMatcher.XML
+c:\users\jeanderson\documents\visual studio 2015\Projects\StringMatcher\StringMatcher\bin\Release\StringMatcher.dll
+c:\users\jeanderson\documents\visual studio 2015\Projects\StringMatcher\StringMatcher\bin\Release\StringMatcher.pdb
+c:\users\jeanderson\documents\visual studio 2015\Projects\StringMatcher\StringMatcher\obj\Release\StringMatcher.csprojResolveAssemblyReference.cache
+c:\users\jeanderson\documents\visual studio 2015\Projects\StringMatcher\StringMatcher\obj\Release\StringMatcher.dll
+c:\users\jeanderson\documents\visual studio 2015\Projects\StringMatcher\StringMatcher\obj\Release\StringMatcher.pdb

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Ice9.Utilites.StringMatcher</id>
+    <version>1.0.1</version>
+    <authors>Jack Anderson</authors>
+    <owners>janderson</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple utility for finding best matched string(s) from a list of strings and a source string</description>
+	<packageTypes>
+		<packageType name="Dependency" />
+	</packageTypes>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags></tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+	  <file src="bin\Release\StringMatcher.dll" target="lib\dotnet46\StringMatcher.dll"/>
+	  <file src="bin\Release\StringMatcher.xml" target="lib\dotnet46\StringMatcher.xml"/>
+  </files>
+</package>
